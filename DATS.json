@@ -1,0 +1,292 @@
+{
+  "title": "Performance of control mice in the heterogenous sequence task",
+  "description": "Male control mice (VAChTflox/flox) were evaluated at 5-8 months of age using the Heterogeneous Sequence Task to assess response chain learning and complex motor learning. ",
+  "identifier": {
+    "identifier": "https://doi.org/10.1002/cpz1.268",
+    "identifierSource": "https://currentprotocols.onlinelibrary.wiley.com/doi/10.1002/cpz1.268"
+  },
+  "creators": [
+    {
+      "fullName": "Dr. Marco Prado",
+      "firstName": "Marco",
+      "lastName": "Prado",
+      "email": "mprado@robarts.ca",
+      "affiliations": [
+        {
+          "name": "Robarts Research Institute, The University of Western Ontario"
+        }
+      ],
+      "roles": [
+        {
+          "value": "Principal Investigator"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "ORCID",
+          "values": [
+            {
+              "value": "https://orcid.org/0000-0002-3028-5778"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "types": [
+    {
+      "information": {
+        "value": "Cognitive Behavioral Data"
+      }
+    }
+  ],
+  "version": "1",
+  "privacy": "open",
+  "licenses": [
+    {
+      "name": "CC0"
+    }
+  ],
+  "distributions": [
+    {
+      "formats": [
+        "CSV"
+      ],
+      "size": 0.5,
+      "unit": {
+        "value": "MB"
+      },
+      "access": {
+        "landingPage": "https://mousebytes.ca/data-extraction",
+        "authorizations": [
+          {
+            "value": "public"
+          }
+        ]
+      }
+    }
+  ],
+  "primaryPublications": [
+    {
+      "title": "Evaluating Sequential Response Learning in the Rodent Operant Touchscreen System",
+      "publicationVenue": "Current Protocols",
+      "authors": [
+        {
+          "fullName": "Helena Janickova",
+          "firstName": "Helena ",
+          "middleInitial": "",
+          "lastName": "Janickova",
+          "affiliations": [
+            {
+              "name": "Robarts Research Institute, Schulich School of Medicine & Dentistry, University of Western Ontario, London, Ontario, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Ornela Kljakic",
+          "firstName": "Ornela ",
+          "middleInitial": "",
+          "lastName": "Kljakic",
+          "affiliations": [
+            {
+              "name": "Robarts Research Institute, Schulich School of Medicine & Dentistry, University of Western Ontario, London, Ontario, Canada"
+            },
+            {
+              "name": "Department of Anatomy and Cell Biology, Schulich School of Medicine & Dentistry, University of Western Ontario, London, Ontario, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Trevor W. Robbins",
+          "firstName": "Trevor ",
+          "middleInitial": "W",
+          "lastName": "Robbins",
+          "affiliations": [
+            {
+              "name": "Behavioural and Cognitive Neuroscience Institute, University of Cambridge, Cambridge, United Kingdom"
+            }
+          ]
+        },
+        {
+          "fullName": "Lisa M. Saksida",
+          "firstName": "Lisa ",
+          "middleInitial": "M",
+          "lastName": "Saksida",
+          "affiliations": [
+            {
+              "name": "Robarts Research Institute, Schulich School of Medicine & Dentistry, University of Western Ontario, London, Ontario, Canada"
+            },
+            {
+              "name": "Department of Physiology and Pharmacology, Schulich School of Medicine & Dentistry, University of Western Ontario, London, Ontario, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Timothy J. Bussey",
+          "firstName": "Timothy ",
+          "middleInitial": "J",
+          "lastName": "Bussey",
+          "affiliations": [
+            {
+              "name": "Robarts Research Institute, Schulich School of Medicine & Dentistry, University of Western Ontario, London, Ontario, Canada"
+            },
+            {
+              "name": "Department of Physiology and Pharmacology, Schulich School of Medicine & Dentistry, University of Western Ontario, London, Ontario, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Vania F. Prado",
+          "firstName": "Vania ",
+          "middleInitial": "F",
+          "lastName": "Prado",
+          "affiliations": [
+            {
+              "name": "Robarts Research Institute, Schulich School of Medicine & Dentistry, University of Western Ontario, London, Ontario, Canada"
+            },
+            {
+              "name": "Department of Anatomy and Cell Biology, Schulich School of Medicine & Dentistry, University of Western Ontario, London, Ontario, Canada"
+            },
+            {
+              "name": "Department of Physiology and Pharmacology, Schulich School of Medicine & Dentistry, University of Western Ontario, London, Ontario, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Marco A. M. Prado",
+          "firstName": "Marco ",
+          "middleInitial": "A. M.",
+          "lastName": "Prado",
+          "affiliations": [
+            {
+              "name": "Robarts Research Institute, Schulich School of Medicine & Dentistry, University of Western Ontario, London, Ontario, Canada"
+            },
+            {
+              "name": "Department of Anatomy and Cell Biology, Schulich School of Medicine & Dentistry, University of Western Ontario, London, Ontario, Canada"
+            },
+            {
+              "name": "Department of Physiology and Pharmacology, Schulich School of Medicine & Dentistry, University of Western Ontario, London, Ontario, Canada"
+            }
+          ]
+        }
+      ],
+      "dates": [
+        {
+          "date": "2021-10-22 00:00:00",
+          "type": {
+            "value": "publication date"
+          }
+        }
+      ],
+      "identifier": {
+        "identifier": "https://doi.org/10.1002/cpz1.268",
+        "identifierSource": "https://currentprotocols.onlinelibrary.wiley.com/doi/10.1002/cpz1.268"
+      }
+    }
+  ],
+  "isAbout": [
+    {
+      "name": "Mus musculus",
+      "identifier": {
+        "identifier": "10090",
+        "identifierSource": "https://www.ncbi.nlm.nih.gov/taxonomy/10090"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "value": "response chain"
+    },
+    {
+      "value": "sequential learning"
+    },
+    {
+      "value": "cue-directed learning"
+    },
+    {
+      "value": "sample data"
+    }
+  ],
+  "extraProperties": [
+    {
+      "category": "subjects",
+      "values": [
+        {
+          "value": "12"
+        }
+      ]
+    },
+    {
+      "category": "files",
+      "values": [
+        {
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "category": "CONP_status",
+      "values": [
+        {
+          "value": "Canadian"
+        }
+      ]
+    },
+    {
+      "category": "origin_institution",
+      "values": [
+        {
+          "value": "Robarts Research Institute, University of Western Ontario"
+        }
+      ]
+    },
+    {
+      "category": "origin_city",
+      "values": [
+        {
+          "value": "London"
+        }
+      ]
+    },
+    {
+      "category": "origin_province",
+      "values": [
+        {
+          "value": "Ontario"
+        }
+      ]
+    },
+    {
+      "category": "origin_country",
+      "values": [
+        {
+          "value": "Canada"
+        }
+      ]
+    },
+    {
+      "category": "contact",
+      "values": [
+        {
+          "value": "Marco Prado, mprado@robarts.ca"
+        }
+      ]
+    },
+    {
+      "category": "REB_statement",
+      "values": [
+        {
+          "value": "In submitting this dataset for inclusion, I certify that participants have consented to the de-identification and deposit of the data in an open-access portal."
+        }
+      ]
+    },
+    {
+      "category": "REB_number",
+      "values": [
+        {
+          "value": "N/A"
+        }
+      ]
+    }
+  ]
+}
