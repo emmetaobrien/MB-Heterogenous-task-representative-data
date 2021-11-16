@@ -188,8 +188,8 @@
     {
       "name": "Mus musculus",
       "identifier": {
-        "identifier": "10090",
-        "identifierSource": "https://www.ncbi.nlm.nih.gov/taxonomy/10090"
+        "identifier": "https://www.ncbi.nlm.nih.gov/taxonomy/10090",
+		    "identifierSource": "NCBI Taxonomy Database"
       }
     }
   ],
